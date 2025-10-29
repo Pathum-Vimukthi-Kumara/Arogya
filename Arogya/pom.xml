@@ -31,6 +31,8 @@
 		<module>Doctor_Service</module>
 		<module>Consultation_Service</module>
 		<module>Appointment_Queue_Management_Service</module>
+		<module>Permission_Authorization_Service</module>
+		<module>Analytics_Reporting_Service</module>
 	</modules>
 
 	<!-- Properties -->
